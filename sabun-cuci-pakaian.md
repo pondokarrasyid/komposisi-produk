@@ -1,4 +1,4 @@
-Sabun Cuci Pakaian
+Sabun Cuci Pakaian Ar-Rasyid
 - Texafom
 - Natrium sulfat
 - Gliseril
