@@ -3,20 +3,27 @@ Our Product
 - [Sabun Cuci Pakaian Ar-Rasyid](#sabun-cuci-pakaian-ar-rasyid)
 
 ## Sabun Cuci Piring Ar-Rasyid
-- Texafom
+- Texapon
 - Natrium sulfat
-- Garam
-- Labsa
+- NaCl
+- Labs atinsoft
 - Gliseril
-- Fixadura
+- Ampithol
 - Parfum
 - Pewarna
+- DMDM
+- Air
 
 ## Sabun Cuci Pakaian Ar-Rasyid
-- Texafom
+- Texapon
 - Natrium sulfat
-- Gliseril
-- Fixadura
 - Parfum
 - Pewarna
-- Sitrun
+- Asam Sitrat
+- NaCl
+- Camperlan
+- Ampithol
+- Baking soda
+- Soda ash
+- EDTA
+- Air
